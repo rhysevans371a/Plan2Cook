@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ ****************************************************************************************************************
+  ~ *Plan2Cook
+  ~ *Copyright (c) 2020
+  ~ * Rhys Evans
+  ~ *STU54259 - Arden University
+  ~ ****************************************************************************************************************
+  -->
+
+<resources>
+    <color name="colorPrimary">#4d5967</color>
+    <color name="colorAccent">#c8af6c</color>
+
+    <color name="logoBackground">#334050</color>
+    <color name="pink_500">#cc0094</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ ****************************************************************************************************************
+  ~ *Plan2Cook
+  ~ *Copyright (c) 2020
+  ~ * Rhys Evans
+  ~ *STU54259 - Arden University
+  ~ ****************************************************************************************************************
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/recipes"
+        android:icon="@drawable/ic_food"
+        android:title="@string/recipes" />
+    <item
+        android:id="@+id/shoppingList"
+        android:icon="@drawable/ic_shop"
+        android:title="@string/shopping_list"
+
+        />
+    <item
+        android:id="@+id/mealPlan"
+        android:icon="@drawable/twotone_date_range_black_18dp"
+        android:title="@string/meal_plan" />
+    <item
+        android:id="@+id/reminder"
+        android:icon="@drawable/baseline_add_alert_black_18dp"
+        android:title="@string/set_reminder" />
+</menu>

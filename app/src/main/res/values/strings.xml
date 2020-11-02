@@ -1,0 +1,21 @@
+<!--
+  ~ ****************************************************************************************************************
+  ~ *Plan2Cook
+  ~ *Copyright (c) 2020
+  ~ * Rhys Evans
+  ~ *STU54259 - Arden University
+  ~ ****************************************************************************************************************
+  -->
+
+<resources>
+    <string name="app_name">Plan2Cook</string>
+
+    <string name="recipes">Recipes</string>
+    <string name="shopping_list">Shopping List</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="set_reminder">Set Reminder</string>
+    <string name="meal_plan">Meal Plan</string>
+
+
+</resources>

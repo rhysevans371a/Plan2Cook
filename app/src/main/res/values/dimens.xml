@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ ****************************************************************************************************************
+  ~ *Plan2Cook
+  ~ *Copyright (c) 2020
+  ~ * Rhys Evans
+  ~ *STU54259 - Arden University
+  ~ ****************************************************************************************************************
+  -->
+
+<resources>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="ingredient_text">12sp</dimen>
+    <dimen name="recipe_name">24sp</dimen>
+</resources>
